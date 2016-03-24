@@ -7,17 +7,6 @@
     </hgroup>
 
     <article>
-        <p>        
-            Use this area to provide additional information.
-        </p>
-
-        <p>        
-            Use this area to provide additional information.
-        </p>
-
-        <p>        
-            Use this area to provide additional information.
-        </p>
     </article>
 
     <aside>
