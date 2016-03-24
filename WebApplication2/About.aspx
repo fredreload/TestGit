@@ -7,7 +7,7 @@
     </hgroup>
 
     <article>
-        bbbbbbbbbbbbbbbbbbbbb
+        = =?
     </article>
 
     <aside>
