@@ -7,7 +7,7 @@
     </hgroup>
 
     <article>
-       這是新修改
+       這是新修
     </article>
 
     <aside>
