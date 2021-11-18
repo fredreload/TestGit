@@ -1,0 +1,4108 @@
+{
+    "city": "臺北市",
+    "time_slots": {
+        "date": "2021-11-18",
+        "events": [
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "士林區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "信義區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "松山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大同區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中正區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大安區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南港區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北投區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "內湖區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "萬華區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "文山區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            }
+        ]
+    }
+}

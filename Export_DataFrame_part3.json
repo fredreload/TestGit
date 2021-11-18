@@ -1,0 +1,5088 @@
+{
+    "city": "新北市",
+    "time_slots": {
+        "date": "2021-11-18",
+        "events": [
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "梧棲區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "沙鹿區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "沙鹿區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "龍井區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "梧棲區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "沙鹿區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "太平區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "龍井區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "神岡區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "太平區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "梧棲區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "梧棲區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大里區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "沙鹿區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "沙鹿區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "太平區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "中區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "龍井區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "太平區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "大雅區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "東區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "豐原區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "清水區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "南屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "西屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "潭子區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            },
+            {
+                "district": "北屯區",
+                "building_state": "住宅大樓(11層含以上有電梯)"
+            }
+        ]
+    }
+}
